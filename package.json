@@ -1,0 +1,22 @@
+{
+  "name": "wallaby-2681",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemGovorov/wallaby-2681.git"
+  },
+  "author": "Artem Govorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemGovorov/wallaby-2681/issues"
+  },
+  "homepage": "https://github.com/ArtemGovorov/wallaby-2681#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
